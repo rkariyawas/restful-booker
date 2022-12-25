@@ -1,0 +1,7 @@
+{
+  "serviceUrl": "https://restful-booker.herokuapp.com/booking",
+  "auth": {
+    "username": "admin",
+    "password": "Y0dGemMzZHZjbVF4TWpNPQ=="
+  }
+}

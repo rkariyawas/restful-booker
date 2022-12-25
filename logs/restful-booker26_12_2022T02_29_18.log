@@ -1,0 +1,48 @@
+2022-12-26 02:29:19 INFO  BookingService:50 - Api genericOperation :CREATEBOOKING
+2022-12-26 02:29:21 INFO  RequestSender:56 - API service is :CREATEBOOKING and response code is :200
+2022-12-26 02:29:21 INFO  BookingService:136 - Create booking response compare
+2022-12-26 02:29:21 INFO  BookingService:50 - Api genericOperation :GETBOOKINGIDS
+2022-12-26 02:29:23 INFO  RequestSender:56 - API service is :GETBOOKINGIDS and response code is :200
+2022-12-26 02:29:24 INFO  BookingService:78 - Api genericOperation :GETBOOKINGBYID
+2022-12-26 02:29:26 INFO  RequestSender:56 - API service is :GETBOOKINGBYID and response code is :200
+2022-12-26 02:29:26 INFO  BookingService:153 - Update booking response compare
+2022-12-26 02:29:27 INFO  RequestSender:56 - API service is :CREATEAUTH and response code is :200
+2022-12-26 02:29:27 INFO  BookingService:78 - Api genericOperation :UPDATEBOOKING
+2022-12-26 02:29:28 INFO  RequestSender:56 - API service is :null and response code is :200
+2022-12-26 02:29:28 INFO  BookingService:153 - Update booking response compare
+2022-12-26 02:29:30 INFO  RequestSender:56 - API service is :null and response code is :200
+2022-12-26 02:29:30 INFO  BookingService:167 - Partial update booking response compare
+2022-12-26 02:29:30 INFO  BookingService:78 - Api genericOperation :DELETEBOOKING
+2022-12-26 02:29:31 INFO  RequestSender:56 - API service is :DELETEBOOKING and response code is :201
+2022-12-26 02:29:31 INFO  BookingService:78 - Api genericOperation :GETBOOKINGBYID
+2022-12-26 02:29:33 INFO  RequestSender:56 - API service is :GETBOOKINGBYID and response code is :404
+2022-12-26 02:29:33 INFO  BookingService:95 - Api service :GETBOOKINGBYID returns error response :Not Found
+2022-12-26 02:29:33 INFO  BookingService:78 - Api genericOperation :GETBOOKINGIDS
+2022-12-26 02:29:34 INFO  RequestSender:56 - API service is :GETBOOKINGIDS and response code is :200
+2022-12-26 02:29:34 INFO  BookingService:50 - Api genericOperation :GETBOOKINGIDS
+2022-12-26 02:29:35 INFO  RequestSender:56 - API service is :GETBOOKINGIDS and response code is :200
+2022-12-26 02:29:36 INFO  BookingService:78 - Api genericOperation :GETBOOKINGBYID
+2022-12-26 02:29:37 INFO  RequestSender:56 - API service is :GETBOOKINGBYID and response code is :200
+2022-12-26 02:29:37 ERROR BookerSteps:88 - Api service payload assert:
+2022-12-26 02:29:37 INFO  BookingService:50 - Api genericOperation :CREATEBOOKING
+2022-12-26 02:29:39 INFO  RequestSender:56 - API service is :CREATEBOOKING and response code is :200
+2022-12-26 02:29:39 INFO  BookingService:136 - Create booking response compare
+2022-12-26 02:29:39 INFO  BookingService:50 - Api genericOperation :CREATEBOOKING
+2022-12-26 02:29:40 INFO  RequestSender:56 - API service is :CREATEBOOKING and response code is :200
+2022-12-26 02:29:40 INFO  BookingService:136 - Create booking response compare
+2022-12-26 02:29:41 INFO  RequestSender:56 - API service is :CREATEAUTH and response code is :200
+2022-12-26 02:29:41 INFO  BookingService:78 - Api genericOperation :UPDATEBOOKING
+2022-12-26 02:29:43 INFO  RequestSender:56 - API service is :null and response code is :200
+2022-12-26 02:29:43 INFO  BookingService:153 - Update booking response compare
+2022-12-26 02:29:43 INFO  BookingService:50 - Api genericOperation :CREATEBOOKING
+2022-12-26 02:29:44 INFO  RequestSender:56 - API service is :CREATEBOOKING and response code is :200
+2022-12-26 02:29:44 INFO  BookingService:136 - Create booking response compare
+2022-12-26 02:29:45 INFO  RequestSender:56 - API service is :CREATEAUTH and response code is :200
+2022-12-26 02:29:47 INFO  RequestSender:56 - API service is :CREATEBOOKING and response code is :200
+2022-12-26 02:29:47 INFO  BookingService:167 - Partial update booking response compare
+2022-12-26 02:29:47 INFO  BookingService:50 - Api genericOperation :CREATEBOOKING
+2022-12-26 02:29:48 INFO  RequestSender:56 - API service is :CREATEBOOKING and response code is :200
+2022-12-26 02:29:48 INFO  BookingService:136 - Create booking response compare
+2022-12-26 02:29:49 INFO  RequestSender:56 - API service is :CREATEAUTH and response code is :200
+2022-12-26 02:29:50 INFO  BookingService:78 - Api genericOperation :DELETEBOOKING
+2022-12-26 02:29:51 INFO  RequestSender:56 - API service is :DELETEBOOKING and response code is :201
